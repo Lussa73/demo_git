@@ -1,2 +1,4 @@
-voici mon numéro de téléphone :
+﻿voici mon numéro de téléphone :
 En faite j'ai plus envi de le partager à la terre entière et à l'haut de là
+
+Neauveau petit changement depuis la machine local
